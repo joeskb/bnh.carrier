@@ -1,0 +1,13 @@
+/home/joeskb/Desktop/BNH/bnh.carrier/bin/Debug/netcoreapp3.1/bnh.carrier
+/home/joeskb/Desktop/BNH/bnh.carrier/bin/Debug/netcoreapp3.1/bnh.carrier.deps.json
+/home/joeskb/Desktop/BNH/bnh.carrier/bin/Debug/netcoreapp3.1/bnh.carrier.runtimeconfig.json
+/home/joeskb/Desktop/BNH/bnh.carrier/bin/Debug/netcoreapp3.1/bnh.carrier.runtimeconfig.dev.json
+/home/joeskb/Desktop/BNH/bnh.carrier/bin/Debug/netcoreapp3.1/bnh.carrier.dll
+/home/joeskb/Desktop/BNH/bnh.carrier/bin/Debug/netcoreapp3.1/bnh.carrier.pdb
+/home/joeskb/Desktop/BNH/bnh.carrier/obj/Debug/netcoreapp3.1/bnh.carrier.csprojAssemblyReference.cache
+/home/joeskb/Desktop/BNH/bnh.carrier/obj/Debug/netcoreapp3.1/bnh.carrier.AssemblyInfoInputs.cache
+/home/joeskb/Desktop/BNH/bnh.carrier/obj/Debug/netcoreapp3.1/bnh.carrier.AssemblyInfo.cs
+/home/joeskb/Desktop/BNH/bnh.carrier/obj/Debug/netcoreapp3.1/bnh.carrier.csproj.CoreCompileInputs.cache
+/home/joeskb/Desktop/BNH/bnh.carrier/obj/Debug/netcoreapp3.1/bnh.carrier.dll
+/home/joeskb/Desktop/BNH/bnh.carrier/obj/Debug/netcoreapp3.1/bnh.carrier.pdb
+/home/joeskb/Desktop/BNH/bnh.carrier/obj/Debug/netcoreapp3.1/bnh.carrier.genruntimeconfig.cache

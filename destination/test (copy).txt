@@ -1,0 +1,632 @@
+MSH|^~\&|Philips.CIS.PatientResult.BL^BHQ-ICCACS01^DNS|Philips.CIS.CVC|||20210404080213||ORU^R01|D0404080213017b664f|P|2.4
+PID|||0121015118^^^Philips.CIS.ADT^MR~I01-21-0004211^^^Philips.CIS.ADT^VN||???????????^??????||19561119000000|M
+PV1||I|01ICU1^^IC1-03
+OBR|1|||414191008^Total Fall Risk Score^SNM|||20210404070000||||||12||||||||||||F
+OBX|1|NM|414191008^Total Fall Risk Score^SNM||12|||A|||F|||20210404070000||^Supinya Aksorn
+OBR|2|||251852001^Total Fluid Intake (24hr)^SNM|||20210404030000||||||0 ml (545.3 ml)||||||||||||F
+OBX|1|NM|255618009^Cum Total^SNM||545.3|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404030000||^Services^D
+OBX|2|NM|225768006^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404030000||^Services^D
+OBR|3|||64908006^Abdomen Assessment^SNM|||20210404150000||||||Distended||||||||||||F
+OBX|1|CE|64908006^ABD Palpation^SNM||118242002^Distended^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|4|||278907009^Breathing pattern^SNM|||20210404150000||||||Regular||||||||||||F
+OBX|1|CE|278907009^Breathing pattern^SNM||17854005^Regular^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|5|||65452004^Right radial pulse^SNM|||20210404070000||||||Strong||||||||||||F
+OBX|1|CE|248627000^Pulse Characteristics^SNM||260404005^Strong^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|6|||361110005^Suctioning (Nasal)^SNM|||20210404070000||||||Amount: Small; Colour: Whitish||||||||||||F
+OBX|1|CE|118555000^Amount^SNM||255507004^Small^SNM^SMALL^Small^ECM001|||N|||F|||20210404070000||^Supinya Aksorn
+OBX|2|CE|263714004^Colour^SNM||263714004^Whitish^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|7|||49727002^Cough^SNM|||20210404080000||||||Breathing||||||||||||F
+OBX|1|CE|49727002^Cough^SNM||1366004^Breathing^SNM|||N|||F|||20210404080000||^Supinya Aksorn
+OBR|8|||49727002^Cough^SNM|||20210404180000||||||Breathing||||||||||||F
+OBX|1|CE|49727002^Cough^SNM||1366004^Breathing^SNM|||N|||F|||20210404180000||^Supinya Aksorn
+OBR|9|||49727002^Cough^SNM|||20210404140000||||||Breathing||||||||||||F
+OBX|1|CE|49727002^Cough^SNM||1366004^Breathing^SNM|||N|||F|||20210404140000||^Supinya Aksorn
+OBR|10|||250554003^SpO2^SNM|||20210404040000||||||100 %||||||||||||F
+OBX|1|NM|250554003^SpO2^SNM||100|415067009^%^SNM^%^percent^ISO+||N|||F|||20210404040000||^Bedside Device
+OBR|11|||251839006^Net Body Balance (24hr)^SNM|||20210404060000||||||515.3 ml||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||515.3|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404060000||^Witthaya Sriphet
+OBX|2|NM|225768006^Hour Total^SNM||-5|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404060000||^Witthaya Sriphet
+OBX|3|CE|273248003^Action^SNM||360307003^Automatic Reset^SNM|||N|||F|||20210404060000||^Witthaya Sriphet
+OBR|12|||251852001^Total Fluid Intake (8hr)^SNM|||20210404050000||||||0 ml (0 ml)||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404050000||^Services^D
+OBX|2|NM|225768006^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404050000||^Services^D
+OBR|13|||17146006^Non-Invasive BP^SNM|||20210404060000||||||119 / 69 (84)||||||||||||F
+OBX|1|NM|271649006^Systolic^SNM||119|259018001^mmHg^SNM^mm(hg)^mmHg^ISO+||N|||F|||20210404060000||^Bedside Device
+OBX|2|NM|271650006^Diastolic^SNM||69|259018001^mmHg^SNM^mm(hg)^mmHg^ISO+||N|||F|||20210404060000||^Bedside Device
+OBX|3|NM|6797001^Mean^SNM||84|259018001^mmHg^SNM^mm(hg)^mmHg^ISO+||N|||F|||20210404060000||^Bedside Device
+OBR|14|||255619001^Total Urine Time (8hr)^SNM|||20210404030000||||||0 (0)||||||||||||F
+OBX|1|NM|56868008^Cumulative Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404030000||^Services^D
+OBX|2|NM|56868008^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404030000||^Services^D
+OBR|15|||414191008^Nursing Intervention^SNM|||20210404070000||||||Score 7-18: Strict Fall Precaution||||||||||||F
+OBX|1|CE|414191008^Nursing Intervention^SNM||414191008^Strict Fall Precaution^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|16|||57485005^O2 administration^SNM|||20210404060000||||||Ventilator; 50 %||||||||||||F
+OBX|1|CE|57485005^O2 Delivery Device^SNM||272189001^Ventilator^SNM^VENT^Ventilator^ECM004|||N|||F|||20210404060000||^Witthaya Sriphet
+OBX|2|NM|57485005^O2 %^SNM||50|415067009^%^SNM^%^percent^ISO+||N|||F|||20210404060000||^Witthaya Sriphet
+OBR|17|||113257007^Right posterior tibial pulse^SNM|||20210404070000||||||Strong||||||||||||F
+OBX|1|CE|248627000^Pulse Characteristics^SNM||260404005^Strong^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|18|||273677009^Right lower limb power^SNM|||20210404070000||||||Right lower limb power: 0= No movement||||||||||||F
+OBX|1|CE|26107004^Motor movement^SNM||273633002^0^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|19|||414191008^Mental Status Oriented to Time,Place,Person^SNM|||20210404150000||||||3= Disoriented||||||||||||F
+OBX|1|CE|414191008^Oriented to Time,Place,Person^SNM||414191008^3^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|20|||251852001^Total Fluid Intake (24hr)^SNM|||20210404060000||||||0 ml (545.3 ml)||||||||||||F
+OBX|1|CE|273248003^Action^SNM||360307003^Automatic Reset^SNM|||N|||F|||20210404060000||^Services^D
+OBX|2|NM|255618009^Cum Total^SNM||545.3|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404060000||^Services^D
+OBX|3|NM|225768006^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404060000||^Services^D
+OBR|21|||251149006^Cardiac Rhythm^SNM|||20210404120000||||||Sinus rhythm||||||||||||F
+OBX|1|CE|251149006^Cardiac Rhythm^SNM||64730000^Sinus rhythm^SNM|||N|||F|||20210404120000||^Supinya Aksorn
+OBR|22|||251839006^Net Body Balance (8hr)^SNM|||20210404040000||||||0 ml||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404040000||^Services^D
+OBX|2|NM|225768006^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404040000||^Services^D
+OBR|23|||273677009^Left upper limb power^SNM|||20210404150000||||||Left upper limb power: 0= No movement||||||||||||F
+OBX|1|CE|26107004^Motor movement^SNM||273633002^0^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|24|||65452004^Right radial pulse^SNM|||20210404150000||||||Strong||||||||||||F
+OBX|1|CE|248627000^Pulse Characteristics^SNM||260404005^Strong^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|25|||413139004^Braden Sensory^SNM|||20210404150000||||||Very limited/painful stimuli only||||||||||||F
+OBX|1|CE|413139004^Sensory^SNM||248240001^SP2^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|26|||297976006^Skin Temperature^SNM|||20210404150000||||||Warm||||||||||||F
+OBX|1|CE|364537001^Skin Temperature^SNM||272099008^Warm^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|27|||414191008^Age^SNM|||20210404070000||||||2= >60-74 years old||||||||||||F
+OBX|1|CE|414191008^Age^SNM||414191008^2^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|28|||17146006^Non-Invasive BP^SNM|||20210404053000||||||118 / 65 (81)||||||||||||F
+OBX|1|NM|271649006^Systolic^SNM||118|259018001^mmHg^SNM^mm(hg)^mmHg^ISO+||N|||F|||20210404053000||^Bedside Device
+OBX|2|NM|271650006^Diastolic^SNM||65|259018001^mmHg^SNM^mm(hg)^mmHg^ISO+||N|||F|||20210404053000||^Bedside Device
+OBX|3|NM|6797001^Mean^SNM||81|259018001^mmHg^SNM^mm(hg)^mmHg^ISO+||N|||F|||20210404053000||^Bedside Device
+OBR|29|||112798008^ETT Placement^SNM|||20210404150000||||||Insert Date: 30/03/2021; 6 days Location: Oral; Size: 7.0 mm; Status: In situ; Cuff Pressure (cmH2O): 25; Anchor Level: 22; Treatment Action: Checked by auscultation; Checked by xray; Tape/ties changed; ET care||||||||||||F
+OBX|1|CE|10546003^ETT Location^SNM||Oral|||N|||F|||20210404150000||^Supinya Aksorn
+OBX|2|CE|246115007^Size^SNM||258673006^7.0 mm^SNM^7.0MM^7.0 mm^ECM001|||N|||F|||20210404150000||^Supinya Aksorn
+OBX|3|CE|112798008^Status^SNM||In situ|||N|||F|||20210404150000||^Supinya Aksorn
+OBX|4|NM|13543005^Cuff Pressure (cmH2O)^SNM||25|259019009^cmH2O^SNM^cm_h2O^cmH2O^ISO+||N|||F|||20210404150000||^Supinya Aksorn
+OBX|5|CE|112798008^Cuff balloon^SNM||410205005^Inflated^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBX|6|NM|182991002^Depth Marking (cm)^SNM||22|||N|||F|||20210404150000||^Supinya Aksorn
+OBX|7|CE|395077000^Treatment Action^SNM||37931006^Checked by auscultation^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBX|8|CE|395077000^Treatment Action^SNM||168537006^Checked by xray^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBX|9|CE|395077000^Treatment Action^SNM||225721001^Tape/ties changed^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBX|10|CE|395077000^Treatment Action^SNM||7922000^ET care^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBX|11|DT|386144009^Insertion Date^SNM||20210330|||N|||F|||20210404150000||^Supinya Aksorn
+OBX|12|NM|103335007^Duration^SNM||6|258703001^days^SNM^d^days^ISO+||N|||F|||20210404150000||^Supinya Aksorn
+OBR|30|||88111009^Stool^SNM|||20210404150000||||||N/A||||||||||||F
+OBX|1|CE|88111009^Stool^SNM||74964007^N/A^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|31|||395060000^Total Urine Output (24hr)^SNM|||20210404040000||||||0 ml (25 ml)||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||25|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404040000||^Services^D
+OBX|2|NM|225768006^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404040000||^Services^D
+OBR|32|||251149006^Cardiac Rhythm^SNM|||20210404110000||||||Sinus rhythm||||||||||||F
+OBX|1|CE|251149006^Cardiac Rhythm^SNM||64730000^Sinus rhythm^SNM|||N|||F|||20210404110000||^Supinya Aksorn
+OBR|33|||251855004^Total IV Infusion (24hr)^SNM|||20210404030000||||||0 ml (545 ml)||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||545|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404030000||^Services^D
+OBX|2|NM|225768006^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404030000||^Services^D
+OBR|34|||78564009^Pulse Rate^SNM|||20210404040000||||||122||||||||||||F
+OBX|1|NM|364075005^HR^SNM||122|258983007^bpm^SNM^/min^beats per minute^ISO+||A|||F|||20210404040000||^Bedside Device
+OBR|35|||88111009^Stool^SNM|||20210404070000||||||N/A||||||||||||F
+OBX|1|CE|88111009^Stool^SNM||74964007^N/A^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|36|||251839006^Net Body Balance (24hr)^SNM|||20210404030000||||||520.3 ml||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||520.3|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404030000||^Services^D
+OBX|2|NM|225768006^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404030000||^Services^D
+OBR|37|||255619001^Total Urine Time (8hr)^SNM|||20210404050000||||||0 (0)||||||||||||F
+OBX|1|NM|56868008^Cumulative Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404050000||^Services^D
+OBX|2|NM|56868008^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404050000||^Services^D
+OBR|38|||364075005^Heart Rate^SNM|||20210404040000||||||110 bpm||||||||||||F
+OBX|1|NM|364075005^HR^SNM||110|258983007^bpm^SNM^/min^beats per minute^ISO+||N|||F|||20210404040000||^Bedside Device
+OBR|39|||17146006^Non-Invasive BP^SNM|||20210404060100||||||119 / 69 (84)||||||||||||F
+OBX|1|NM|271649006^Systolic^SNM||119|259018001^mmHg^SNM^mm(hg)^mmHg^ISO+||N|||F|||20210404060100||^Bedside Device
+OBX|2|NM|271650006^Diastolic^SNM||69|259018001^mmHg^SNM^mm(hg)^mmHg^ISO+||N|||F|||20210404060100||^Bedside Device
+OBX|3|NM|6797001^Mean^SNM||84|259018001^mmHg^SNM^mm(hg)^mmHg^ISO+||N|||F|||20210404060100||^Bedside Device
+OBR|40|||251839006^Net Body Balance (LOS)^SNM|||20210404030000||||||2329.7 ml||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||2329.7|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404030000||^Services^D
+OBX|2|NM|225768006^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404030000||^Services^D
+OBR|41|||57485005^O2 administration^SNM|||20210404180000||||||Ventilator; 60 %||||||||||||F
+OBX|1|CE|57485005^O2 Delivery Device^SNM||272189001^Ventilator^SNM^VENT^Ventilator^ECM004|||N|||F|||20210404180000||^Supinya Aksorn
+OBX|2|NM|57485005^O2 %^SNM||60|415067009^%^SNM^%^percent^ISO+||N|||F|||20210404180000||^Supinya Aksorn
+OBR|42|||395060000^Total Urine Output (24hr)^SNM|||20210404030000||||||0 ml (25 ml)||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||25|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404030000||^Services^D
+OBX|2|NM|225768006^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404030000||^Services^D
+OBR|43|||273677009^Right upper limb power^SNM|||20210404150000||||||Right upper limb power: 0= No movement||||||||||||F
+OBX|1|CE|26107004^Motor movement^SNM||273633002^0^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|44|||413139004^Braden Sensory^SNM|||20210404070000||||||Very limited/painful stimuli only||||||||||||F
+OBX|1|CE|413139004^Sensory^SNM||248240001^SP2^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|45|||414191008^Medications: Cardiovascular,Anticonvulsant,Antihypertensive^SNM|||20210404150000||||||3= Use of medication in category 1 \T\ 2||||||||||||F
+OBX|1|CE|414191008^Medications^SNM||414191008^3^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|46|||844005^Behavior^SNM|||20210404070000||||||Uncooperative||||||||||||F
+OBX|1|CE|844005^Behavior^SNM||248042003^Uncooperative^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|47|||413139004^Braden Mobility^SNM|||20210404150000||||||Very limited/needs assistance||||||||||||F
+OBX|1|CE|413139004^Braden Mobility^SNM||371154000^MB2^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|48|||395060000^Total Urine Output (24hr)^SNM|||20210404070000||||||10 ml (10 ml)||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||10|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404070000||^Witthaya Sriphet
+OBX|2|NM|225768006^Hour Total^SNM||10|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404070000||^Witthaya Sriphet
+OBX|3|CE|273248003^Action^SNM||385652002^Start^SNM|||N|||F|||20210404070000||^Witthaya Sriphet
+OBR|49|||251839006^Net Body Balance (LOS)^SNM|||20210404070000||||||2314.7 ml||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||2314.7|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404070000||^Witthaya Sriphet
+OBX|2|NM|225768006^Hour Total^SNM||-10|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404070000||^Witthaya Sriphet
+OBR|50|||86290005^Respiratory Rate^SNM|||20210404050000||||||15 RPM||||||||||||F
+OBX|1|NM|86290005^Respiration Rate^SNM||15|258984001^RPM^SNM^/min^Respirations per minute^ISO+||N|||F|||20210404050000||^Bedside Device
+OBR|51|||364202003^Total Urine Output (8hr)^SNM|||20210404030000||||||0 ml (0 ml)||||||||||||F
+OBX|1|NM|255618009^Cum Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404030000||^Services^D
+OBX|2|NM|225768006^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404030000||^Services^D
+OBR|52|||251841007^Total Fluid Output (8hr)^SNM|||20210404070000||||||10 ml (10 ml)||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||10|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404070000||^Witthaya Sriphet
+OBX|2|NM|225768006^Hour Total^SNM||10|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404070000||^Witthaya Sriphet
+OBX|3|CE|273248003^Action^SNM||385652002^Start^SNM|||N|||F|||20210404070000||^Witthaya Sriphet
+OBR|53|||409522005^Precautions^SNM|||20210404150000||||||Standard Precautions||||||||||||F
+OBX|1|CE|409522005^Precautions^SNM||389099004^Standard Precautions^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|54|||368597006^Pupils, Left^SNM|||20210404070000||||||4 mm Sluggish||||||||||||F
+OBX|1|CE|363953003^Pupil Size^SNM||301941003^4 mm^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBX|2|CE|271733001^Pupil Reaction^SNM||386660007^Sluggish^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|55|||413139004^Braden Moisture^SNM|||20210404070000||||||Rarely moist||||||||||||F
+OBX|1|CE|413139004^Moisture^SNM||16386004^M4^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|56|||86290005^Respiratory Rate^SNM|||20210404040000||||||15 RPM||||||||||||F
+OBX|1|NM|86290005^Respiration Rate^SNM||15|258984001^RPM^SNM^/min^Respirations per minute^ISO+||N|||F|||20210404040000||^Bedside Device
+OBR|57|||297976006^Skin Temperature^SNM|||20210404070000||||||Warm||||||||||||F
+OBX|1|CE|364537001^Skin Temperature^SNM||272099008^Warm^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|58|||251852001^Total Fluid Intake (8hr)^SNM|||20210404060000||||||0 ml (0 ml)||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404060000||^Services^D
+OBX|2|NM|225768006^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404060000||^Services^D
+OBX|3|CE|273248003^Action^SNM||360307003^Automatic Reset^SNM|||N|||F|||20210404060000||^Services^D
+OBR|59|||413139004^Braden Friction^SNM|||20210404150000||||||Problem||||||||||||F
+OBX|1|CE|413139004^Friction^SNM||301692009^FS1^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|60|||386554004^Glasgow Coma Scale^SNM|||20210404070000||||||E1 ETT/T-1 M1||||||||||||F
+OBX|1|CE|281395000^GCS Eyes^SNM||281395000^E1^SNM^1^No eye response-1^ECM005|||A|||F|||20210404070000||^Supinya Aksorn
+OBX|2|CE|281397008^GCS Verbal^SNM||257462007^ETT/T-1^SNM|||A|||F|||20210404070000||^Supinya Aksorn
+OBX|3|CE|281396004^GCS Motor^SNM||281396004^M1^SNM^1^No motor response-1^ECM005|||A|||F|||20210404070000||^Supinya Aksorn
+OBX|4|NM|248241002^GCS Total Score^SNM||3|||A|||F|||20210404070000||^Supinya Aksorn
+OBR|61|||251149006^Cardiac Rhythm^SNM|||20210404170000||||||Sinus rhythm||||||||||||F
+OBX|1|CE|251149006^Cardiac Rhythm^SNM||64730000^Sinus rhythm^SNM|||N|||F|||20210404170000||^Supinya Aksorn
+OBR|62|||57485005^O2 administration^SNM|||20210404100000||||||Ventilator; 60 %||||||||||||F
+OBX|1|CE|57485005^O2 Delivery Device^SNM||272189001^Ventilator^SNM^VENT^Ventilator^ECM004|||N|||F|||20210404100000||^Supinya Aksorn
+OBX|2|NM|57485005^O2 %^SNM||60|415067009^%^SNM^%^percent^ISO+||N|||F|||20210404100000||^Supinya Aksorn
+OBR|63|||57485005^O2 administration^SNM|||20210404080000||||||Ventilator; 60 %||||||||||||F
+OBX|1|CE|57485005^O2 Delivery Device^SNM||272189001^Ventilator^SNM^VENT^Ventilator^ECM004|||N|||F|||20210404080000||^Supinya Aksorn
+OBX|2|NM|57485005^O2 %^SNM||60|415067009^%^SNM^%^percent^ISO+||N|||F|||20210404080000||^Supinya Aksorn
+OBR|64|||414191008^Medications: Cardiovascular,Anticonvulsant,Antihypertensive^SNM|||20210404070000||||||3= Use of medication in category 1 \T\ 2||||||||||||F
+OBX|1|CE|414191008^Medications^SNM||414191008^3^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|65|||251149006^Cardiac Rhythm^SNM|||20210404130000||||||Sinus rhythm||||||||||||F
+OBX|1|CE|251149006^Cardiac Rhythm^SNM||64730000^Sinus rhythm^SNM|||N|||F|||20210404130000||^Supinya Aksorn
+OBR|66|||251852001^Total Fluid Intake (8hr)^SNM|||20210404040000||||||0 ml (0 ml)||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404040000||^Services^D
+OBX|2|NM|225768006^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404040000||^Services^D
+OBR|67|||57485005^O2 administration^SNM|||20210404050000||||||Ventilator; 50 %||||||||||||F
+OBX|1|CE|57485005^O2 Delivery Device^SNM||272189001^Ventilator^SNM^VENT^Ventilator^ECM004|||N|||F|||20210404050000||^Witthaya Sriphet
+OBX|2|NM|57485005^O2 %^SNM||50|415067009^%^SNM^%^percent^ISO+||N|||F|||20210404050000||^Witthaya Sriphet
+OBR|68|||122865005^NG.NJ.PEG tube^SNM|||20210404150000||||||N/A||||||||||||F
+OBX|1|CE|122865005^NG.NJ.PEG tube^SNM||74964007^N/A^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|69|||364202003^Total Urine Output (8hr)^SNM|||20210404060000||||||5 ml (5 ml)||||||||||||F
+OBX|1|CE|273248003^Action^SNM||360307003^Automatic Reset^SNM|||N|||F|||20210404060000||^Witthaya Sriphet
+OBX|2|NM|255618009^Cum Total^SNM||5|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404060000||^Witthaya Sriphet
+OBX|3|NM|225768006^Hour Total^SNM||5|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404060000||^Witthaya Sriphet
+OBR|70|||122865005^NG.NJ.PEG tube^SNM|||20210404070000||||||N/A||||||||||||F
+OBX|1|CE|122865005^NG.NJ.PEG tube^SNM||74964007^N/A^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|71|||122865005^Oral mucosa^SNM|||20210404150000||||||Moist||||||||||||F
+OBX|1|CE|122865005^Oral mucosa^SNM||17461003^Moist^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|72|||251839006^Net Body Balance (24hr)^SNM|||20210404040000||||||520.3 ml||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||520.3|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404040000||^Services^D
+OBX|2|NM|225768006^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404040000||^Services^D
+OBR|73|||368575009^Pupils, Right^SNM|||20210404150000||||||4 mm Sluggish||||||||||||F
+OBX|1|CE|363953003^Pupil Size^SNM||301941003^4 mm^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBX|2|CE|271733001^Pupil Reaction^SNM||386660007^Sluggish^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|74|||251841007^Total Fluid Output (24hr)^SNM|||20210404070000||||||10 ml (10 ml)||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||10|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404070000||^Witthaya Sriphet
+OBX|2|NM|225768006^Hour Total^SNM||10|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404070000||^Witthaya Sriphet
+OBX|3|CE|273248003^Action^SNM||385652002^Start^SNM|||N|||F|||20210404070000||^Witthaya Sriphet
+OBR|75|||368597006^Pupils, Left^SNM|||20210404150000||||||4 mm Sluggish||||||||||||F
+OBX|1|CE|363953003^Pupil Size^SNM||301941003^4 mm^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBX|2|CE|271733001^Pupil Reaction^SNM||386660007^Sluggish^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|76|||364533002^Skin Color^SNM|||20210404150000||||||Pale; jaundice||||||||||||F
+OBX|1|CE|263714004^Skin Color^SNM||371262000^Pale^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBX|2|CE|263714004^Skin Color^SNM||74964007^jaundice^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|77|||255619001^Total Blood Product (24hr)^SNM|||20210404050000||||||0 ml (0 ml)||||||||||||F
+OBX|1|NM|56868008^Cumulative Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404050000||^Services^D
+OBX|2|NM|56868008^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404050000||^Services^D
+OBR|78|||413139004^Pressure Ulcer Risk^SNM|||20210404070000||||||Total 10-12: high risk||||||||||||F
+OBX|1|CE|413139004^Pressure Ulcer Risk^SNM||413139004^High^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|79|||413139004^Braden Friction^SNM|||20210404070000||||||Problem||||||||||||F
+OBX|1|CE|413139004^Friction^SNM||301692009^FS1^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|80|||52653008^Breath sound^SNM|||20210404070000||||||Clear; Equal and bilateral||||||||||||F
+OBX|1|CE|52653008^Breath sound^SNM||22803001^Clear^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBX|2|CE|52653008^Breath sound^SNM||410205005^Equal and bilateral^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|81|||414191008^Mobility (including desire of autonomy)^SNM|||20210404070000||||||3= Impaired judgement and unsteady gait||||||||||||F
+OBX|1|CE|414191008^Mobility (including desire of au^SNM||414191008^3^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|82|||251839006^Net Body Balance (8hr)^SNM|||20210404030000||||||0 ml||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404030000||^Services^D
+OBX|2|NM|225768006^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404030000||^Services^D
+OBR|83|||251841007^Total Fluid Output (24hr)^SNM|||20210404050000||||||0 ml (25 ml)||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||25|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404050000||^Services^D
+OBX|2|NM|225768006^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404050000||^Services^D
+OBR|84|||414191008^History of Fall^SNM|||20210404070000||||||0= No falls||||||||||||F
+OBX|1|CE|414191008^History of Fall^SNM||414191008^0^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|85|||368575009^Pupils, Right^SNM|||20210404070000||||||4 mm Sluggish||||||||||||F
+OBX|1|CE|363953003^Pupil Size^SNM||301941003^4 mm^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBX|2|CE|271733001^Pupil Reaction^SNM||386660007^Sluggish^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|86|||251149006^Cardiac Rhythm^SNM|||20210404050000||||||Sinus rhythm||||||||||||F
+OBX|1|CE|251149006^Cardiac Rhythm^SNM||64730000^Sinus rhythm^SNM|||N|||F|||20210404050000||^Witthaya Sriphet
+OBR|87|||844005^Behavior^SNM|||20210404150000||||||Uncooperative||||||||||||F
+OBX|1|CE|844005^Behavior^SNM||248042003^Uncooperative^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|88|||86290005^Respiratory Rate^SNM|||20210404060000||||||15 RPM||||||||||||F
+OBX|1|NM|86290005^Respiration Rate^SNM||15|258984001^RPM^SNM^/min^Respirations per minute^ISO+||N|||F|||20210404060000||^Bedside Device
+OBR|89|||57485005^O2 administration^SNM|||20210404040000||||||Ventilator; 50 %||||||||||||F
+OBX|1|CE|57485005^O2 Delivery Device^SNM||272189001^Ventilator^SNM^VENT^Ventilator^ECM004|||N|||F|||20210404040000||^Witthaya Sriphet
+OBX|2|NM|57485005^O2 %^SNM||50|415067009^%^SNM^%^percent^ISO+||N|||F|||20210404040000||^Witthaya Sriphet
+OBR|90|||26107004^Left lower limb power^SNM|||20210404070000||||||Left lower limb power: 0= No movement||||||||||||F
+OBX|1|CE|26107004^Motor movement^SNM||273633002^0^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|91|||251841007^Total Fluid Output (8hr)^SNM|||20210404060000||||||5 ml (5 ml)||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||5|258773002^ml^SNM^mL^ml^ISO+||A|||F|||20210404060000||^Witthaya Sriphet
+OBX|2|NM|225768006^Hour Total^SNM||5|258773002^ml^SNM^mL^ml^ISO+||A|||F|||20210404060000||^Witthaya Sriphet
+OBX|3|CE|273248003^Action^SNM||360307003^Automatic Reset^SNM|||A|||F|||20210404060000||^Witthaya Sriphet
+OBR|92|||17146006^Non-Invasive BP^SNM|||20210404063100||||||115 / 73 (85)||||||||||||F
+OBX|1|NM|271649006^Systolic^SNM||115|259018001^mmHg^SNM^mm(hg)^mmHg^ISO+||N|||F|||20210404063100||^Bedside Device
+OBX|2|NM|271650006^Diastolic^SNM||73|259018001^mmHg^SNM^mm(hg)^mmHg^ISO+||N|||F|||20210404063100||^Bedside Device
+OBX|3|NM|6797001^Mean^SNM||85|259018001^mmHg^SNM^mm(hg)^mmHg^ISO+||N|||F|||20210404063100||^Bedside Device
+OBR|93|||361110005^Suctioning (Oral)^SNM|||20210404070000||||||Amount: Small; Colour: Whitish||||||||||||F
+OBX|1|CE|118555000^Amount^SNM||255507004^Small^SNM^SMALL^Small^ECM001|||N|||F|||20210404070000||^Supinya Aksorn
+OBX|2|CE|263714004^Colour^SNM||263714004^Whitish^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|94|||26669000^Skin Turgor^SNM|||20210404150000||||||Loose||||||||||||F
+OBX|1|CE|26669000^Skin Turgor^SNM||78799005^Loose^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|95|||414191008^Elimination^SNM|||20210404070000||||||0= No problemsElimination list: Incontinence||||||||||||F
+OBX|1|CE|414191008^Elimination^SNM||414191008^Incontinence^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBX|2|CE|414191008^Score^SNM||414191008^0^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|96|||421811005^Right dorsalis pedis pulse^SNM|||20210404070000||||||Strong||||||||||||F
+OBX|1|CE|248627000^Pulse Characteristics^SNM||260404005^Strong^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|97|||273677009^Left upper limb power^SNM|||20210404070000||||||Left upper limb power: 0= No movement||||||||||||F
+OBX|1|CE|26107004^Motor movement^SNM||273633002^0^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|98|||255619001^Total Blood Product (8hr)^SNM|||20210404050000||||||0 ml (0 ml)||||||||||||F
+OBX|1|NM|56868008^Cumulative Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404050000||^Services^D
+OBX|2|NM|56868008^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404050000||^Services^D
+OBR|99|||250554003^SpO2^SNM|||20210404060000||||||100 %||||||||||||F
+OBX|1|NM|250554003^SpO2^SNM||100|415067009^%^SNM^%^percent^ISO+||N|||F|||20210404060000||^Bedside Device
+OBR|100|||251149006^Cardiac Rhythm^SNM|||20210404040000||||||Sinus rhythm||||||||||||F
+OBX|1|CE|251149006^Cardiac Rhythm^SNM||64730000^Sinus rhythm^SNM|||N|||F|||20210404040000||^Witthaya Sriphet
+OBR|101|||251839006^Net Body Balance (8hr)^SNM|||20210404060000||||||-5 ml||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||-5|258773002^ml^SNM^mL^ml^ISO+||A|||F|||20210404060000||^Witthaya Sriphet
+OBX|2|NM|225768006^Hour Total^SNM||-5|258773002^ml^SNM^mL^ml^ISO+||A|||F|||20210404060000||^Witthaya Sriphet
+OBX|3|CE|273248003^Action^SNM||360307003^Automatic Reset^SNM|||A|||F|||20210404060000||^Witthaya Sriphet
+OBR|102|||414191008^Mobility (including desire of autonomy)^SNM|||20210404150000||||||3= Impaired judgement and unsteady gait||||||||||||F
+OBX|1|CE|414191008^Mobility (including desire of au^SNM||414191008^3^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|103|||413139004^Braden Total Score^SNM|||20210404150000||||||12||||||||||||F
+OBX|1|NM|413139004^Braden Total Score^SNM||12|||A|||F|||20210404150000||^Supinya Aksorn
+OBR|104|||251841007^Total Fluid Output (24hr)^SNM|||20210404040000||||||0 ml (25 ml)||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||25|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404040000||^Services^D
+OBX|2|NM|225768006^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404040000||^Services^D
+OBR|105|||57485005^O2 administration^SNM|||20210404170000||||||Ventilator; 60 %||||||||||||F
+OBX|1|CE|57485005^O2 Delivery Device^SNM||272189001^Ventilator^SNM^VENT^Ventilator^ECM004|||N|||F|||20210404170000||^Supinya Aksorn
+OBX|2|NM|57485005^O2 %^SNM||60|415067009^%^SNM^%^percent^ISO+||N|||F|||20210404170000||^Supinya Aksorn
+OBR|106|||113257007^Left posterior tibial pulse^SNM|||20210404070000||||||Strong||||||||||||F
+OBX|1|CE|248627000^Pulse Characteristics^SNM||260404005^Strong^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|107|||386554004^Glasgow Coma Scale^SNM|||20210404150000||||||E1 ETT/T-1 M1||||||||||||F
+OBX|1|CE|281395000^GCS Eyes^SNM||281395000^E1^SNM^1^No eye response-1^ECM005|||A|||F|||20210404150000||^Supinya Aksorn
+OBX|2|CE|281397008^GCS Verbal^SNM||257462007^ETT/T-1^SNM|||A|||F|||20210404150000||^Supinya Aksorn
+OBX|3|CE|281396004^GCS Motor^SNM||281396004^M1^SNM^1^No motor response-1^ECM005|||A|||F|||20210404150000||^Supinya Aksorn
+OBX|4|NM|248241002^GCS Total Score^SNM||3|||A|||F|||20210404150000||^Supinya Aksorn
+OBR|108|||251841007^Total Fluid Output (8hr)^SNM|||20210404040000||||||0 ml (0 ml)||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404040000||^Services^D
+OBX|2|NM|225768006^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404040000||^Services^D
+OBR|109|||251855004^Total IV Infusion (24hr)^SNM|||20210404060000||||||0 ml (545 ml)||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||545|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404060000||^Services^D
+OBX|2|NM|225768006^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404060000||^Services^D
+OBX|3|CE|273248003^Action^SNM||360307003^Automatic Reset^SNM|||N|||F|||20210404060000||^Services^D
+OBR|110|||251149006^Cardiac Rhythm^SNM|||20210404060000||||||Sinus rhythm||||||||||||F
+OBX|1|CE|251149006^Cardiac Rhythm^SNM||64730000^Sinus rhythm^SNM|||N|||F|||20210404060000||^Witthaya Sriphet
+OBR|111|||251841007^Total Fluid Output (24hr)^SNM|||20210404060000||||||5 ml (30 ml)||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||30|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404060000||^Witthaya Sriphet
+OBX|2|NM|225768006^Hour Total^SNM||5|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404060000||^Witthaya Sriphet
+OBX|3|CE|273248003^Action^SNM||360307003^Automatic Reset^SNM|||N|||F|||20210404060000||^Witthaya Sriphet
+OBR|112|||413139004^Braden Moisture^SNM|||20210404150000||||||Rarely moist||||||||||||F
+OBX|1|CE|413139004^Moisture^SNM||16386004^M4^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|113|||49727002^Cough^SNM|||20210404070000||||||Breathing||||||||||||F
+OBX|1|CE|49727002^Cough^SNM||1366004^Breathing^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|114|||414191008^Nursing Intervention^SNM|||20210404150000||||||Score 7-18: Strict Fall Precaution||||||||||||F
+OBX|1|CE|414191008^Nursing Intervention^SNM||414191008^Strict Fall Precaution^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|115|||57485005^O2 administration^SNM|||20210404190000||||||Ventilator; 60 %||||||||||||F
+OBX|1|CE|57485005^O2 Delivery Device^SNM||272189001^Ventilator^SNM^VENT^Ventilator^ECM004|||N|||F|||20210404190000||^Supinya Aksorn
+OBX|2|NM|57485005^O2 %^SNM||60|415067009^%^SNM^%^percent^ISO+||N|||F|||20210404190000||^Supinya Aksorn
+OBR|116|||364202003^Total Urine Output (8hr)^SNM|||20210404050000||||||0 ml (0 ml)||||||||||||F
+OBX|1|NM|255618009^Cum Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404050000||^Services^D
+OBX|2|NM|225768006^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404050000||^Services^D
+OBR|117|||364533002^Skin Color^SNM|||20210404070000||||||Pale; jaundice||||||||||||F
+OBX|1|CE|263714004^Skin Color^SNM||371262000^Pale^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBX|2|CE|263714004^Skin Color^SNM||74964007^jaundice^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|118|||78564009^Pulse Rate^SNM|||20210404050000||||||71||||||||||||F
+OBX|1|NM|364075005^HR^SNM||71|258983007^bpm^SNM^/min^beats per minute^ISO+||N|||F|||20210404050000||^Bedside Device
+OBR|119|||413139004^Braden Activity^SNM|||20210404150000||||||Bed bound||||||||||||F
+OBX|1|CE|413139004^Activity^SNM||160685001^A1^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|120|||273677009^Right upper limb power^SNM|||20210404070000||||||Right upper limb power: 0= No movement||||||||||||F
+OBX|1|CE|26107004^Motor movement^SNM||273633002^0^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|121|||255619001^Total Blood Product (8hr)^SNM|||20210404040000||||||0 ml (0 ml)||||||||||||F
+OBX|1|NM|56868008^Cumulative Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404040000||^Services^D
+OBX|2|NM|56868008^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404040000||^Services^D
+OBR|122|||414191008^Sensory/Communication Deficit^SNM|||20210404070000||||||1=1 Deficits to Vision,Speech,Hearing,Touch,Language BarrierSensory/Communication Deficit: Speech||||||||||||F
+OBX|1|CE|414191008^Sensory/Communication Deficit^SNM||414191008^Speech^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBX|2|CE|414191008^Score^SNM||414191008^1^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|123|||255619001^Total IV Infusion (8hr)^SNM|||20210404040000||||||0 ml (0 ml)||||||||||||F
+OBX|1|NM|56868008^Cumulative Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404040000||^Services^D
+OBX|2|NM|56868008^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404040000||^Services^D
+OBR|124|||361110005^Suctioning (Oral)^SNM|||20210404150000||||||Amount: Small; Colour: Whitish||||||||||||F
+OBX|1|CE|118555000^Amount^SNM||255507004^Small^SNM^SMALL^Small^ECM001|||N|||F|||20210404150000||^Supinya Aksorn
+OBX|2|CE|263714004^Colour^SNM||263714004^Whitish^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|125|||251852001^Total Fluid Intake (8hr)^SNM|||20210404030000||||||0 ml (0 ml)||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404030000||^Services^D
+OBX|2|NM|225768006^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404030000||^Services^D
+OBR|126|||278907009^Breathing pattern^SNM|||20210404070000||||||Regular||||||||||||F
+OBX|1|CE|278907009^Breathing pattern^SNM||17854005^Regular^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|127|||251839006^Net Body Balance (24hr)^SNM|||20210404070000||||||-10 ml||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||-10|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404070000||^Witthaya Sriphet
+OBX|2|NM|225768006^Hour Total^SNM||-10|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404070000||^Witthaya Sriphet
+OBX|3|CE|273248003^Action^SNM||385652002^Start^SNM|||N|||F|||20210404070000||^Witthaya Sriphet
+OBR|128|||251149006^Cardiac Rhythm^SNM|||20210404160000||||||Sinus rhythm||||||||||||F
+OBX|1|CE|251149006^Cardiac Rhythm^SNM||64730000^Sinus rhythm^SNM|||N|||F|||20210404160000||^Supinya Aksorn
+OBR|129|||421811005^Left dorsalis pedis pulse^SNM|||20210404070000||||||Strong||||||||||||F
+OBX|1|CE|248627000^Pulse Characteristics^SNM||260404005^Strong^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|130|||251852001^Total Fluid Intake (24hr)^SNM|||20210404040000||||||0 ml (545.3 ml)||||||||||||F
+OBX|1|NM|255618009^Cum Total^SNM||545.3|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404040000||^Services^D
+OBX|2|NM|225768006^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404040000||^Services^D
+OBR|131|||251149006^Cardiac Rhythm^SNM|||20210404180000||||||Sinus rhythm||||||||||||F
+OBX|1|CE|251149006^Cardiac Rhythm^SNM||64730000^Sinus rhythm^SNM|||N|||F|||20210404180000||^Supinya Aksorn
+OBR|132|||251839006^Net Body Balance (LOS)^SNM|||20210404040000||||||2329.7 ml||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||2329.7|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404040000||^Services^D
+OBX|2|NM|225768006^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404040000||^Services^D
+OBR|133|||395060000^Total Urine Output (24hr)^SNM|||20210404050000||||||0 ml (25 ml)||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||25|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404050000||^Services^D
+OBX|2|NM|225768006^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404050000||^Services^D
+OBR|134|||57485005^O2 administration^SNM|||20210404150000||||||Ventilator; 60 %||||||||||||F
+OBX|1|CE|57485005^O2 Delivery Device^SNM||272189001^Ventilator^SNM^VENT^Ventilator^ECM004|||N|||F|||20210404150000||^Supinya Aksorn
+OBX|2|NM|57485005^O2 %^SNM||60|415067009^%^SNM^%^percent^ISO+||N|||F|||20210404150000||^Supinya Aksorn
+OBR|135|||64908006^Abdomen Assessment^SNM|||20210404070000||||||Distended||||||||||||F
+OBX|1|CE|64908006^ABD Palpation^SNM||118242002^Distended^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|136|||49727002^Cough^SNM|||20210404150000||||||Breathing||||||||||||F
+OBX|1|CE|49727002^Cough^SNM||1366004^Breathing^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|137|||414191008^Elimination^SNM|||20210404150000||||||0= No problemsElimination list: Incontinence||||||||||||F
+OBX|1|CE|414191008^Elimination^SNM||414191008^Incontinence^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBX|2|CE|414191008^Score^SNM||414191008^0^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|138|||255619001^Total Blood Product (8hr)^SNM|||20210404060000||||||0 ml (0 ml)||||||||||||F
+OBX|1|NM|56868008^Cumulative Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404060000||^Services^D
+OBX|2|CE|277052006^Action^SNM||360307003^Automatic Reset^SNM|||N|||F|||20210404060000||^Services^D
+OBX|3|NM|56868008^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404060000||^Services^D
+OBR|139|||251841007^Total Fluid Output (24hr)^SNM|||20210404030000||||||0 ml (25 ml)||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||25|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404030000||^Services^D
+OBX|2|NM|225768006^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404030000||^Services^D
+OBR|140|||255619001^Total Blood Product (24hr)^SNM|||20210404040000||||||0 ml (0 ml)||||||||||||F
+OBX|1|NM|56868008^Cumulative Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404040000||^Services^D
+OBX|2|NM|56868008^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404040000||^Services^D
+OBR|141|||429271009^VAP Bundle^SNM|||20210404070000||||||Hand hygiene: 5 moments; Head elevate 30-45 degrees (Yes); Monitor cuff pressure 20-30 cmH2O; Mouth care with chlorhexidine 0.12%, twice a day (Yes); Drain out ventilator circuit condensate; Suction 2 steps: 1. suctioin in oral, 2. suction in tube||||||||||||F
+OBX|1|CE|429271009^VAP Bundle^SNM||429271009^Hand hygiene: 5 moments^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBX|2|CE|429271009^VAP Bundle^SNM||429271009^Head elevate 30-45 degrees (Yes)^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBX|3|CE|429271009^VAP Bundle^SNM||429271009^Cuff pressure 20-30 cmH2O^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBX|4|CE|429271009^VAP Bundle^SNM||429271009^Mouth care twice a day (Yes)^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBX|5|CE|429271009^VAP Bundle^SNM||429271009^Empty vent. circuit condensate^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBX|6|CE|429271009^VAP Bundle^SNM||429271009^Suction 2 steps: in oral ^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|142|||251839006^Net Body Balance (8hr)^SNM|||20210404070000||||||-10 ml||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||-10|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404070000||^Witthaya Sriphet
+OBX|2|NM|225768006^Hour Total^SNM||-10|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404070000||^Witthaya Sriphet
+OBX|3|CE|273248003^Action^SNM||385652002^Start^SNM|||N|||F|||20210404070000||^Witthaya Sriphet
+OBR|143|||258710007^Temperature (ฐC)^SNM|||20210404060000||||||36.9 Tympanic||||||||||||F
+OBX|1|NM|386725007^Temp (C)^SNM||36.9|258710007^Deg C ฐ^SNM^cel^Deg C ฐ^ISO+||N|||F|||20210404060000||^Witthaya Sriphet
+OBX|2|CE|105723007^Temperature Sites^SNM||Tympanic|||N|||F|||20210404060000||^Witthaya Sriphet
+OBR|144|||17146006^Non-Invasive BP^SNM|||20210404070000||||||107 / 63 (76)||||||||||||F
+OBX|1|NM|271649006^Systolic^SNM||107|259018001^mmHg^SNM^mm(hg)^mmHg^ISO+||N|||F|||20210404070000||^Bedside Device
+OBX|2|NM|271650006^Diastolic^SNM||63|259018001^mmHg^SNM^mm(hg)^mmHg^ISO+||N|||F|||20210404070000||^Bedside Device
+OBX|3|NM|6797001^Mean^SNM||76|259018001^mmHg^SNM^mm(hg)^mmHg^ISO+||N|||F|||20210404070000||^Bedside Device
+OBR|145|||57485005^O2 administration^SNM|||20210404070000||||||Ventilator; 50 %||||||||||||F
+OBX|1|CE|57485005^O2 Delivery Device^SNM||272189001^Ventilator^SNM^VENT^Ventilator^ECM004|||N|||F|||20210404070000||^Witthaya Sriphet
+OBX|2|NM|57485005^O2 %^SNM||50|415067009^%^SNM^%^percent^ISO+||N|||F|||20210404070000||^Witthaya Sriphet
+OBR|146|||255619001^Total Blood Product (8hr)^SNM|||20210404030000||||||0 ml (0 ml)||||||||||||F
+OBX|1|NM|56868008^Cumulative Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404030000||^Services^D
+OBX|2|NM|56868008^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404030000||^Services^D
+OBR|147|||413139004^Pressure Ulcer Risk^SNM|||20210404150000||||||Total 10-12: high risk||||||||||||F
+OBX|1|CE|413139004^Pressure Ulcer Risk^SNM||413139004^High^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|148|||364202003^Total Urine Output (8hr)^SNM|||20210404040000||||||0 ml (0 ml)||||||||||||F
+OBX|1|NM|255618009^Cum Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404040000||^Services^D
+OBX|2|NM|225768006^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404040000||^Services^D
+OBR|149|||414191008^Total Fall Risk Score^SNM|||20210404150000||||||12||||||||||||F
+OBX|1|NM|414191008^Total Fall Risk Score^SNM||12|||A|||F|||20210404150000||^Supinya Aksorn
+OBR|150|||57485005^O2 administration^SNM|||20210404130000||||||Ventilator; 60 %||||||||||||F
+OBX|1|CE|57485005^O2 Delivery Device^SNM||272189001^Ventilator^SNM^VENT^Ventilator^ECM004|||N|||F|||20210404130000||^Supinya Aksorn
+OBX|2|NM|57485005^O2 %^SNM||60|415067009^%^SNM^%^percent^ISO+||N|||F|||20210404130000||^Supinya Aksorn
+OBR|151|||78564009^Pulse Rate^SNM|||20210404070000||||||71||||||||||||F
+OBX|1|NM|364075005^HR^SNM||71|258983007^bpm^SNM^/min^beats per minute^ISO+||N|||F|||20210404070000||^Bedside Device
+OBR|152|||17146006^Non-Invasive BP^SNM|||20210404043000||||||112 / 68 (82)||||||||||||F
+OBX|1|NM|271649006^Systolic^SNM||112|259018001^mmHg^SNM^mm(hg)^mmHg^ISO+||N|||F|||20210404043000||^Bedside Device
+OBX|2|NM|271650006^Diastolic^SNM||68|259018001^mmHg^SNM^mm(hg)^mmHg^ISO+||N|||F|||20210404043000||^Bedside Device
+OBX|3|NM|6797001^Mean^SNM||82|259018001^mmHg^SNM^mm(hg)^mmHg^ISO+||N|||F|||20210404043000||^Bedside Device
+OBR|153|||251149006^Cardiac Rhythm^SNM|||20210404150000||||||Sinus rhythm||||||||||||F
+OBX|1|CE|251149006^Cardiac Rhythm^SNM||64730000^Sinus rhythm^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|154|||414191008^History of Fall^SNM|||20210404150000||||||0= No falls||||||||||||F
+OBX|1|CE|414191008^History of Fall^SNM||414191008^0^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|155|||65452004^Left radial pulse^SNM|||20210404150000||||||Strong||||||||||||F
+OBX|1|CE|248627000^Pulse Characteristics^SNM||260404005^Strong^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|156|||251841007^Total Fluid Output (8hr)^SNM|||20210404050000||||||0 ml (0 ml)||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404050000||^Services^D
+OBX|2|NM|225768006^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404050000||^Services^D
+OBR|157|||17146006^Non-Invasive BP^SNM|||20210404050000||||||114 / 69 (82)||||||||||||F
+OBX|1|NM|271649006^Systolic^SNM||114|259018001^mmHg^SNM^mm(hg)^mmHg^ISO+||N|||F|||20210404050000||^Bedside Device
+OBX|2|NM|271650006^Diastolic^SNM||69|259018001^mmHg^SNM^mm(hg)^mmHg^ISO+||N|||F|||20210404050000||^Bedside Device
+OBX|3|NM|6797001^Mean^SNM||82|259018001^mmHg^SNM^mm(hg)^mmHg^ISO+||N|||F|||20210404050000||^Bedside Device
+OBR|158|||17146006^Non-Invasive BP^SNM|||20210404043100||||||112 / 68 (82)||||||||||||F
+OBX|1|NM|271649006^Systolic^SNM||112|259018001^mmHg^SNM^mm(hg)^mmHg^ISO+||N|||F|||20210404043100||^Bedside Device
+OBX|2|NM|271650006^Diastolic^SNM||68|259018001^mmHg^SNM^mm(hg)^mmHg^ISO+||N|||F|||20210404043100||^Bedside Device
+OBX|3|NM|6797001^Mean^SNM||82|259018001^mmHg^SNM^mm(hg)^mmHg^ISO+||N|||F|||20210404043100||^Bedside Device
+OBR|159|||26107004^Left lower limb power^SNM|||20210404150000||||||Left lower limb power: 0= No movement||||||||||||F
+OBX|1|CE|26107004^Motor movement^SNM||273633002^0^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|160|||255619001^Total IV Infusion (8hr)^SNM|||20210404030000||||||0 ml (0 ml)||||||||||||F
+OBX|1|NM|56868008^Cumulative Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404030000||^Services^D
+OBX|2|NM|56868008^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404030000||^Services^D
+OBR|161|||414191008^Age^SNM|||20210404150000||||||2= >60-74 years old||||||||||||F
+OBX|1|CE|414191008^Age^SNM||414191008^2^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|162|||255619001^Total IV Infusion (8hr)^SNM|||20210404050000||||||0 ml (0 ml)||||||||||||F
+OBX|1|NM|56868008^Cumulative Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404050000||^Services^D
+OBX|2|NM|56868008^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404050000||^Services^D
+OBR|163|||57485005^O2 administration^SNM|||20210404090000||||||Ventilator; 60 %||||||||||||F
+OBX|1|CE|57485005^O2 Delivery Device^SNM||272189001^Ventilator^SNM^VENT^Ventilator^ECM004|||N|||F|||20210404090000||^Supinya Aksorn
+OBX|2|NM|57485005^O2 %^SNM||60|415067009^%^SNM^%^percent^ISO+||N|||F|||20210404090000||^Supinya Aksorn
+OBR|164|||17146006^Non-Invasive BP^SNM|||20210404040000||||||115 / 75 (88)||||||||||||F
+OBX|1|NM|271649006^Systolic^SNM||115|259018001^mmHg^SNM^mm(hg)^mmHg^ISO+||N|||F|||20210404040000||^Bedside Device
+OBX|2|NM|271650006^Diastolic^SNM||75|259018001^mmHg^SNM^mm(hg)^mmHg^ISO+||N|||F|||20210404040000||^Bedside Device
+OBX|3|NM|6797001^Mean^SNM||88|259018001^mmHg^SNM^mm(hg)^mmHg^ISO+||N|||F|||20210404040000||^Bedside Device
+OBR|165|||17146006^Non-Invasive BP^SNM|||20210404063000||||||115 / 73 (85)||||||||||||F
+OBX|1|NM|271649006^Systolic^SNM||115|259018001^mmHg^SNM^mm(hg)^mmHg^ISO+||N|||F|||20210404063000||^Bedside Device
+OBX|2|NM|271650006^Diastolic^SNM||73|259018001^mmHg^SNM^mm(hg)^mmHg^ISO+||N|||F|||20210404063000||^Bedside Device
+OBX|3|NM|6797001^Mean^SNM||85|259018001^mmHg^SNM^mm(hg)^mmHg^ISO+||N|||F|||20210404063000||^Bedside Device
+OBR|166|||364075005^Heart Rate^SNM|||20210404050000||||||71 bpm||||||||||||F
+OBX|1|NM|364075005^HR^SNM||71|258983007^bpm^SNM^/min^beats per minute^ISO+||N|||F|||20210404050000||^Bedside Device
+OBR|167|||364075005^Heart Rate^SNM|||20210404070000||||||72 bpm||||||||||||F
+OBX|1|NM|364075005^HR^SNM||72|258983007^bpm^SNM^/min^beats per minute^ISO+||N|||F|||20210404070000||^Witthaya Sriphet
+OBR|168|||414191008^Mental Status Oriented to Time,Place,Person^SNM|||20210404070000||||||3= Disoriented||||||||||||F
+OBX|1|CE|414191008^Oriented to Time,Place,Person^SNM||414191008^3^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|169|||251855004^Total IV Infusion (24hr)^SNM|||20210404040000||||||0 ml (545 ml)||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||545|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404040000||^Services^D
+OBX|2|NM|225768006^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404040000||^Services^D
+OBR|170|||86290005^Respiratory Rate^SNM|||20210404070000||||||16 RPM||||||||||||F
+OBX|1|NM|86290005^Respiration Rate^SNM||16|258984001^RPM^SNM^/min^Respirations per minute^ISO+||N|||F|||20210404070000||^Bedside Device
+OBR|171|||49727002^Cough^SNM|||20210404160000||||||Breathing||||||||||||F
+OBX|1|CE|49727002^Cough^SNM||1366004^Breathing^SNM|||N|||F|||20210404160000||^Supinya Aksorn
+OBR|172|||409522005^Precautions^SNM|||20210404070000||||||Standard Precautions||||||||||||F
+OBX|1|CE|409522005^Precautions^SNM||389099004^Standard Precautions^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|173|||251839006^Net Body Balance (24hr)^SNM|||20210404050000||||||520.3 ml||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||520.3|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404050000||^Services^D
+OBX|2|NM|225768006^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404050000||^Services^D
+OBR|174|||250554003^SpO2^SNM|||20210404050000||||||100 %||||||||||||F
+OBX|1|NM|250554003^SpO2^SNM||100|415067009^%^SNM^%^percent^ISO+||N|||F|||20210404050000||^Bedside Device
+OBR|175|||413139004^Braden Activity^SNM|||20210404070000||||||Bed bound||||||||||||F
+OBX|1|CE|413139004^Activity^SNM||160685001^A1^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|176|||113257007^Left posterior tibial pulse^SNM|||20210404150000||||||Strong||||||||||||F
+OBX|1|CE|248627000^Pulse Characteristics^SNM||260404005^Strong^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|177|||251149006^Cardiac Rhythm^SNM|||20210404140000||||||Sinus rhythm||||||||||||F
+OBX|1|CE|251149006^Cardiac Rhythm^SNM||64730000^Sinus rhythm^SNM|||N|||F|||20210404140000||^Supinya Aksorn
+OBR|178|||421811005^Left dorsalis pedis pulse^SNM|||20210404150000||||||Strong||||||||||||F
+OBX|1|CE|248627000^Pulse Characteristics^SNM||260404005^Strong^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|179|||122865005^Oral mucosa^SNM|||20210404070000||||||Moist||||||||||||F
+OBX|1|CE|122865005^Oral mucosa^SNM||17461003^Moist^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|180|||251839006^Net Body Balance (8hr)^SNM|||20210404050000||||||0 ml||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404050000||^Services^D
+OBX|2|NM|225768006^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404050000||^Services^D
+OBR|181|||251149006^Cardiac Rhythm^SNM|||20210404190000||||||Sinus rhythm||||||||||||F
+OBX|1|CE|251149006^Cardiac Rhythm^SNM||64730000^Sinus rhythm^SNM|||N|||F|||20210404190000||^Supinya Aksorn
+OBR|182|||300429005^Bowel Sounds^SNM|||20210404150000||||||Absent||||||||||||F
+OBX|1|CE|87042004^Bowel Sounds^SNM||2667000^Absent^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|183|||251149006^Cardiac Rhythm^SNM|||20210404090000||||||Sinus rhythm||||||||||||F
+OBX|1|CE|251149006^Cardiac Rhythm^SNM||64730000^Sinus rhythm^SNM|||N|||F|||20210404090000||^Supinya Aksorn
+OBR|184|||26669000^Skin Turgor^SNM|||20210404070000||||||Loose||||||||||||F
+OBX|1|CE|26669000^Skin Turgor^SNM||78799005^Loose^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|185|||364202003^Urine: Foley's catheter^SNM|||20210404070000||||||10 ml; Color: Clear||||||||||||F
+OBX|1|NM|56868008^Volume^SNM||10|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404070000||^Witthaya Sriphet
+OBX|2|CE|263714004^Urine Color^SNM||263707001^Clear^SNM|||N|||F|||20210404070000||^Witthaya Sriphet
+OBR|186|||255619001^Total Blood Product (24hr)^SNM|||20210404060000||||||0 ml (0 ml)||||||||||||F
+OBX|1|NM|56868008^Cumulative Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404060000||^Services^D
+OBX|2|NM|56868008^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404060000||^Services^D
+OBX|3|CE|277052006^Action^SNM||360307003^Automatic Reset^SNM|||N|||F|||20210404060000||^Services^D
+OBR|187|||112798008^ETT Placement^SNM|||20210404070000||||||Insert Date: 30/03/2021; 6 days Location: Oral; Size: 7.0 mm; Status: In situ; Cuff Pressure (cmH2O): 25; Anchor Level: 22; Treatment Action: Checked by auscultation; Checked by xray; Tape/ties changed; ET care||||||||||||F
+OBX|1|CE|10546003^ETT Location^SNM||Oral|||N|||F|||20210404070000||^Supinya Aksorn
+OBX|2|CE|246115007^Size^SNM||258673006^7.0 mm^SNM^7.0MM^7.0 mm^ECM001|||N|||F|||20210404070000||^Supinya Aksorn
+OBX|3|CE|112798008^Status^SNM||In situ|||N|||F|||20210404070000||^Supinya Aksorn
+OBX|4|NM|13543005^Cuff Pressure (cmH2O)^SNM||25|259019009^cmH2O^SNM^cm_h2O^cmH2O^ISO+||N|||F|||20210404070000||^Supinya Aksorn
+OBX|5|CE|112798008^Cuff balloon^SNM||410205005^Inflated^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBX|6|NM|182991002^Depth Marking (cm)^SNM||22|||N|||F|||20210404070000||^Supinya Aksorn
+OBX|7|CE|395077000^Treatment Action^SNM||37931006^Checked by auscultation^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBX|8|CE|395077000^Treatment Action^SNM||168537006^Checked by xray^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBX|9|CE|395077000^Treatment Action^SNM||225721001^Tape/ties changed^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBX|10|CE|395077000^Treatment Action^SNM||7922000^ET care^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBX|11|DT|386144009^Insertion Date^SNM||20210330|||N|||F|||20210404070000||^Supinya Aksorn
+OBX|12|NM|103335007^Duration^SNM||6|258703001^days^SNM^d^days^ISO+||N|||F|||20210404070000||^Supinya Aksorn
+OBR|188|||52653008^Breath sound^SNM|||20210404150000||||||Clear; Equal and bilateral||||||||||||F
+OBX|1|CE|52653008^Breath sound^SNM||22803001^Clear^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBX|2|CE|52653008^Breath sound^SNM||410205005^Equal and bilateral^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|189|||251149006^Cardiac Rhythm^SNM|||20210404070000||||||Sinus rhythm||||||||||||F
+OBX|1|CE|251149006^Cardiac Rhythm^SNM||64730000^Sinus rhythm^SNM|||N|||F|||20210404070000||^Witthaya Sriphet
+OBR|190|||251841007^Total Fluid Output (8hr)^SNM|||20210404030000||||||0 ml (0 ml)||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404030000||^Services^D
+OBX|2|NM|225768006^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404030000||^Services^D
+OBR|191|||255619001^Total Urine Time (8hr)^SNM|||20210404040000||||||0 (0)||||||||||||F
+OBX|1|NM|56868008^Cumulative Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404040000||^Services^D
+OBX|2|NM|56868008^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404040000||^Services^D
+OBR|192|||413139004^Braden Total Score^SNM|||20210404070000||||||12||||||||||||F
+OBX|1|NM|413139004^Braden Total Score^SNM||12|||A|||F|||20210404070000||^Supinya Aksorn
+OBR|193|||255619001^Total Blood Product (24hr)^SNM|||20210404030000||||||0 ml (0 ml)||||||||||||F
+OBX|1|NM|56868008^Cumulative Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404030000||^Services^D
+OBX|2|NM|56868008^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404030000||^Services^D
+OBR|194|||251852001^Total Fluid Intake (24hr)^SNM|||20210404050000||||||0 ml (545.3 ml)||||||||||||F
+OBX|1|NM|255618009^Cum Total^SNM||545.3|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404050000||^Services^D
+OBX|2|NM|225768006^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404050000||^Services^D
+OBR|195|||429271009^VAP Bundle^SNM|||20210404150000||||||Hand hygiene: 5 moments; Head elevate 30-45 degrees (Yes); Monitor cuff pressure 20-30 cmH2O; Mouth care with chlorhexidine 0.12%, twice a day (Yes); Drain out ventilator circuit condensate; Suction 2 steps: 1. suctioin in oral, 2. suction in tube||||||||||||F
+OBX|1|CE|429271009^VAP Bundle^SNM||429271009^Hand hygiene: 5 moments^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBX|2|CE|429271009^VAP Bundle^SNM||429271009^Head elevate 30-45 degrees (Yes)^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBX|3|CE|429271009^VAP Bundle^SNM||429271009^Cuff pressure 20-30 cmH2O^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBX|4|CE|429271009^VAP Bundle^SNM||429271009^Mouth care twice a day (Yes)^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBX|5|CE|429271009^VAP Bundle^SNM||429271009^Empty vent. circuit condensate^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBX|6|CE|429271009^VAP Bundle^SNM||429271009^Suction 2 steps: in oral ^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|196|||65452004^Left radial pulse^SNM|||20210404070000||||||Strong||||||||||||F
+OBX|1|CE|248627000^Pulse Characteristics^SNM||260404005^Strong^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|197|||395060000^Total Urine Output (24hr)^SNM|||20210404060000||||||5 ml (30 ml)||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||30|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404060000||^Witthaya Sriphet
+OBX|2|NM|225768006^Hour Total^SNM||5|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404060000||^Witthaya Sriphet
+OBX|3|CE|273248003^Action^SNM||360307003^Automatic Reset^SNM|||N|||F|||20210404060000||^Witthaya Sriphet
+OBR|198|||251149006^Cardiac Rhythm^SNM|||20210404080000||||||Sinus rhythm||||||||||||F
+OBX|1|CE|251149006^Cardiac Rhythm^SNM||64730000^Sinus rhythm^SNM|||N|||F|||20210404080000||^Supinya Aksorn
+OBR|199|||251839006^Net Body Balance (LOS)^SNM|||20210404050000||||||2329.7 ml||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||2329.7|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404050000||^Services^D
+OBX|2|NM|225768006^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404050000||^Services^D
+OBR|200|||273677009^Right lower limb power^SNM|||20210404150000||||||Right lower limb power: 0= No movement||||||||||||F
+OBX|1|CE|26107004^Motor movement^SNM||273633002^0^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|201|||78564009^Pulse Rate^SNM|||20210404060000||||||72||||||||||||F
+OBX|1|NM|364075005^HR^SNM||72|258983007^bpm^SNM^/min^beats per minute^ISO+||N|||F|||20210404060000||^Bedside Device
+OBR|202|||57485005^O2 administration^SNM|||20210404120000||||||Ventilator; 60 %||||||||||||F
+OBX|1|CE|57485005^O2 Delivery Device^SNM||272189001^Ventilator^SNM^VENT^Ventilator^ECM004|||N|||F|||20210404120000||^Supinya Aksorn
+OBX|2|NM|57485005^O2 %^SNM||60|415067009^%^SNM^%^percent^ISO+||N|||F|||20210404120000||^Supinya Aksorn
+OBR|203|||300429005^Bowel Sounds^SNM|||20210404070000||||||Absent||||||||||||F
+OBX|1|CE|87042004^Bowel Sounds^SNM||2667000^Absent^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|204|||251855004^Total IV Infusion (24hr)^SNM|||20210404050000||||||0 ml (545 ml)||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||545|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404050000||^Services^D
+OBX|2|NM|225768006^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404050000||^Services^D
+OBR|205|||255619001^Total Urine Time (8hr)^SNM|||20210404060000||||||0 (0)||||||||||||F
+OBX|1|NM|56868008^Cumulative Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404060000||^Services^D
+OBX|2|CE|277052006^Action^SNM||360307003^Automatic Reset^SNM|||N|||F|||20210404060000||^Services^D
+OBX|3|NM|56868008^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404060000||^Services^D
+OBR|206|||251149006^Cardiac Rhythm^SNM|||20210404030000||||||Atrial fibrillation||||||||||||F
+OBX|1|CE|251149006^Cardiac Rhythm^SNM||49436004^Atrial fibrillation^SNM|||N|||F|||20210404030000||^Witthaya Sriphet
+OBR|207|||113257007^Right posterior tibial pulse^SNM|||20210404150000||||||Strong||||||||||||F
+OBX|1|CE|248627000^Pulse Characteristics^SNM||260404005^Strong^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|208|||57485005^O2 administration^SNM|||20210404140000||||||Ventilator; 60 %||||||||||||F
+OBX|1|CE|57485005^O2 Delivery Device^SNM||272189001^Ventilator^SNM^VENT^Ventilator^ECM004|||N|||F|||20210404140000||^Supinya Aksorn
+OBX|2|NM|57485005^O2 %^SNM||60|415067009^%^SNM^%^percent^ISO+||N|||F|||20210404140000||^Supinya Aksorn
+OBR|209|||250554003^SpO2^SNM|||20210404070000||||||100 %||||||||||||F
+OBX|1|NM|250554003^SpO2^SNM||100|415067009^%^SNM^%^percent^ISO+||N|||F|||20210404070000||^Bedside Device
+OBR|210|||255619001^Total IV Infusion (8hr)^SNM|||20210404060000||||||0 ml (0 ml)||||||||||||F
+OBX|1|NM|56868008^Cumulative Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404060000||^Services^D
+OBX|2|CE|277052006^Action^SNM||360307003^Automatic Reset^SNM|||N|||F|||20210404060000||^Services^D
+OBX|3|NM|56868008^Hour Total^SNM||0|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404060000||^Services^D
+OBR|211|||361110005^Suctioning (Nasal)^SNM|||20210404150000||||||Amount: Small; Colour: Whitish||||||||||||F
+OBX|1|CE|118555000^Amount^SNM||255507004^Small^SNM^SMALL^Small^ECM001|||N|||F|||20210404150000||^Supinya Aksorn
+OBX|2|CE|263714004^Colour^SNM||263714004^Whitish^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|212|||57485005^O2 administration^SNM|||20210404160000||||||Ventilator; 60 %||||||||||||F
+OBX|1|CE|57485005^O2 Delivery Device^SNM||272189001^Ventilator^SNM^VENT^Ventilator^ECM004|||N|||F|||20210404160000||^Supinya Aksorn
+OBX|2|NM|57485005^O2 %^SNM||60|415067009^%^SNM^%^percent^ISO+||N|||F|||20210404160000||^Supinya Aksorn
+OBR|213|||413139004^Braden Nutrition^SNM|||20210404070000||||||Probably inadequate||||||||||||F
+OBX|1|CE|413139004^Nutrition^SNM||249481003^N2^SNM|||N|||F|||20210404070000||^Supinya Aksorn
+OBR|214|||421811005^Right dorsalis pedis pulse^SNM|||20210404150000||||||Strong||||||||||||F
+OBX|1|CE|248627000^Pulse Characteristics^SNM||260404005^Strong^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|215|||57485005^O2 administration^SNM|||20210404110000||||||Ventilator; 60 %||||||||||||F
+OBX|1|CE|57485005^O2 Delivery Device^SNM||272189001^Ventilator^SNM^VENT^Ventilator^ECM004|||N|||F|||20210404110000||^Supinya Aksorn
+OBX|2|NM|57485005^O2 %^SNM||60|415067009^%^SNM^%^percent^ISO+||N|||F|||20210404110000||^Supinya Aksorn
+OBR|216|||413139004^Braden Nutrition^SNM|||20210404150000||||||Probably inadequate||||||||||||F
+OBX|1|CE|413139004^Nutrition^SNM||249481003^N2^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|217|||251149006^Cardiac Rhythm^SNM|||20210404100000||||||Sinus rhythm||||||||||||F
+OBX|1|CE|251149006^Cardiac Rhythm^SNM||64730000^Sinus rhythm^SNM|||N|||F|||20210404100000||^Supinya Aksorn
+OBR|218|||49727002^Cough^SNM|||20210404120000||||||Breathing||||||||||||F
+OBX|1|CE|49727002^Cough^SNM||1366004^Breathing^SNM|||N|||F|||20210404120000||^Supinya Aksorn
+OBR|219|||364075005^Heart Rate^SNM|||20210404060000||||||72 bpm||||||||||||F
+OBX|1|NM|364075005^HR^SNM||72|258983007^bpm^SNM^/min^beats per minute^ISO+||N|||F|||20210404060000||^Bedside Device
+OBR|220|||414191008^Sensory/Communication Deficit^SNM|||20210404150000||||||1=1 Deficits to Vision,Speech,Hearing,Touch,Language BarrierSensory/Communication Deficit: Speech||||||||||||F
+OBX|1|CE|414191008^Sensory/Communication Deficit^SNM||414191008^Speech^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBX|2|CE|414191008^Score^SNM||414191008^1^SNM|||N|||F|||20210404150000||^Supinya Aksorn
+OBR|221|||27113001^Weight (Weekly)^SNM|||20210404060000||||||0 kg||||||||||||F
+OBX|1|NM|27113001^Weight^SNM||0|258683005^kg^SNM^kg^kg^ISO+||N|||F|||20210404060000||^Witthaya Sriphet
+OBR|222|||364202003^Urine: Foley's catheter^SNM|||20210404060000||||||5 ml; Color: Hematuria||||||||||||F
+OBX|1|NM|56868008^Volume^SNM||5|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404060000||^Witthaya Sriphet
+OBX|2|CE|263714004^Urine Color^SNM||263714004^Hematuria^SNM|||N|||F|||20210404060000||^Witthaya Sriphet
+OBR|223|||251839006^Net Body Balance (LOS)^SNM|||20210404060000||||||2324.7 ml||||||||||||F
+OBX|1|NM|255618009^Cumulative Total^SNM||2324.7|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404060000||^Witthaya Sriphet
+OBX|2|NM|225768006^Hour Total^SNM||-5|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404060000||^Witthaya Sriphet
+OBR|224|||364202003^Total Urine Output (8hr)^SNM|||20210404070000||||||10 ml (10 ml)||||||||||||F
+OBX|1|CE|273248003^Action^SNM||385652002^Start^SNM|||N|||F|||20210404070000||^Witthaya Sriphet
+OBX|2|NM|255618009^Cum Total^SNM||10|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404070000||^Witthaya Sriphet
+OBX|3|NM|225768006^Hour Total^SNM||10|258773002^ml^SNM^mL^ml^ISO+||N|||F|||20210404070000||^Witthaya Sriphet
+OBR|225|||17146006^Non-Invasive BP^SNM|||20210404073000||||||106 / 61 (75)||||||||||||F
+OBX|1|NM|271649006^Systolic^SNM||106|259018001^mmHg^SNM^mm(hg)^mmHg^ISO+||N|||F|||20210404073000||^Bedside Device
+OBX|2|NM|271650006^Diastolic^SNM||61|259018001^mmHg^SNM^mm(hg)^mmHg^ISO+||N|||F|||20210404073000||^Bedside Device
+OBX|3|NM|6797001^Mean^SNM||75|259018001^mmHg^SNM^mm(hg)^mmHg^ISO+||N|||F|||20210404073000||^Bedside Device
+OBR|226|||413139004^Braden Mobility^SNM|||20210404070000||||||Very limited/needs assistance||||||||||||F
+OBX|1|CE|413139004^Braden Mobility^SNM||371154000^MB2^SNM|||N|||F|||20210404070000||^Supinya Aksorn
